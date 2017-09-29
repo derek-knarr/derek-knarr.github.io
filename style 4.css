@@ -1,0 +1,33 @@
+h1 { color:greenyellow ;
+	font-size: 250%; }
+	
+h2 { color: black;
+font-size: 100% }
+	
+h2 { border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid; }
+
+
+body { background: darkcyan ;
+       color: white;
+       font-size: 16pt; }
+	   
+nav li	{ display: inline-block }
+nav li	{ border: 4px dotted gray }
+
+nav li	{ padding: 10px;
+		 margin: 10px;
+background: black }
+nav li:hover{ background-color: darkgreen }
+
+
+a { color: red;
+text-decoration: underline;
+font-weight: bold }
+a:hover { color: yellow }
+	   
+	   
+
+
