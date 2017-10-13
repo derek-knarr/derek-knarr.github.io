@@ -1,0 +1,24 @@
+
+h1{ color: gold;
+font-size: 350% }
+
+h1 { font-family: 'Roboto Slab', serif }
+
+h2 {color: limegreen}
+
+
+
+body { background: maroon;
+color: lightgreen;
+font-size: 15pt }
+body { font-family: 'Noto Sans', sans-serif; }
+
+
+table, th, td { border: 3px solid black; 
+			color: aquamarine	}
+
+
+td :hover{ background-color: yellow }
+
+	a { color: burlywood }
+	a:hover { color: green }

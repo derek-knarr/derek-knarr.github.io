@@ -1,0 +1,25 @@
+h1 { color: lightgreen;
+font-size: 300% }
+
+h1 { font-family: 'Roboto Slab', serif }
+
+
+body { background: #003300;
+       color: yellow;
+       font-size: 15pt; }
+body { font-family: 'Noto Sans', sans-serif; }
+	   
+table, th, td { border: 5px solid black; 
+			border-collapse: collapse ;
+			margin-top: 40px;
+			padding: 5px;
+			color: red}
+						
+			
+td :hover{ background-color: yellow }
+
+a { color: aqua;
+text-decoration: underline;
+font-weight: bold }
+a:hover { color: black }
+

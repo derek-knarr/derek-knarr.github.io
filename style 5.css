@@ -1,0 +1,31 @@
+h1 { font-size: 300%;
+	color: yellow; }
+	
+h1 { font-family: 'Roboto Slab', serif }
+	
+h2 { font-size: 150%;
+color: lightgreen;}
+
+
+body {color: orange;
+	font-size: 15pt;
+	background-color: black; }
+body { font-family: 'Noto Sans', sans-serif; }
+
+	
+nav li	{ display: inline-block;
+	border: 4px inset lightblue;
+	background: red}
+
+
+nav li	{ padding: 10px ;
+		margin: 40px;
+		 margin-top: 50px }
+
+nav li:hover{ background-color: white }
+
+a { color: black;
+text-decoration: underline;
+font-weight: bold }
+a:hover { color: darkgreen }
+	   

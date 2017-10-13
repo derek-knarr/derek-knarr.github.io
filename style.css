@@ -1,0 +1,54 @@
+h1{ color:lightgreen;
+	font-size: 300%; }
+h1 { font-family: 'Roboto Slab', serif }	
+	
+h2{ color:lightblue;
+font-size: 200%;}
+
+h3 {color: orange;
+	padding: 15px;
+	border-left: 4px solid yellow;
+	border-right: 4px solid yellow }
+	
+table { border-spacing: 40px}
+	
+body { background: midnightblue;
+       color: white;
+       font-size: 15pt; }
+body { font-family: 'Noto Sans', sans-serif; }
+
+
+
+
+nav li	{ display: inline-block }
+nav li	{border: 4px solid gray }
+
+nav li	{padding: 10px;
+		 margin: 10px;
+background: black }
+nav li:hover{ background-color: darkgreen }
+
+
+a { color: white;
+text-decoration: underline;
+font-weight: bold }
+a:hover { color: yellow }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
